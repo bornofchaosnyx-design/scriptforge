@@ -1,0 +1,190 @@
+{
+  "name": "YouTube Educational / How-To",
+  "description": "Step-by-step tutorial format for teaching skills or concepts",
+  "platform": "YouTube",
+  "estimated_length": "10-15 minutes",
+  "structure": [
+    {
+      "section": "Problem & Promise",
+      "duration": "0:00-0:45",
+      "description": "Identify the problem and promise the solution",
+      "formula": "Do you struggle with [problem]? In this video, I'll show you how to [solution]",
+      "hook_types": [
+        "Problem identification",
+        "Result preview",
+        "Time-saving promise",
+        "Skill acquisition benefit"
+      ]
+    },
+    {
+      "section": "Prerequisites & Setup",
+      "duration": "0:45-2:00",
+      "description": "What viewers need before starting",
+      "checklist": [
+        "Required tools/software",
+        "Basic knowledge/skills needed",
+        "Account setup if required",
+        "File/download preparations"
+      ],
+      "visual_aids": [
+        "[SHOW: Tools on screen]",
+        "[DISPLAY: Download links]",
+        "[DEMONSTRATE: Account setup]"
+      ]
+    },
+    {
+      "section": "Step 1: Foundation",
+      "duration": "2:00-4:00",
+      "description": "First and most important step",
+      "teaching_principles": [
+        "Start with simplest concept",
+        "Explain 'why' not just 'how'",
+        "Use analogies for complex ideas",
+        "Check for understanding"
+      ],
+      "common_mistakes": "What beginners get wrong here"
+    },
+    {
+      "section": "Step 2: Core Process",
+      "duration": "4:00-7:00",
+      "description": "Main teaching section",
+      "demonstration_techniques": [
+        "Screen recording for software",
+        "Hands-on demonstration for physical tasks",
+        "Before/after comparisons",
+        "Slow motion for complex movements"
+      ],
+      "explanation_depth": "Balance between thorough and overwhelming"
+    },
+    {
+      "section": "Step 3: Advanced Techniques",
+      "duration": "7:00-9:30",
+      "description": "Optional improvements and pro tips",
+      "content": [
+        "Time-saving shortcuts",
+        "Common troubleshooting",
+        "Alternative methods",
+        "Pro-level optimizations"
+      ],
+      "differentiation": "What separates beginners from experts"
+    },
+    {
+      "section": "Step 4: Practice & Application",
+      "duration": "9:30-11:00",
+      "description": "How to practice and apply the skill",
+      "practice_exercises": [
+        "Beginner drill",
+        "Real-world project",
+        "Progression path",
+        "Common use cases"
+      ],
+      "retention_tips": "How to remember and master the skill"
+    },
+    {
+      "section": "Common Questions & Troubleshooting",
+      "duration": "11:00-12:30",
+      "description": "Anticipate and answer viewer questions",
+      "faq_categories": [
+        "Beginner confusion points",
+        "Technical issues",
+        "Alternative approaches",
+        "Next steps after mastery"
+      ],
+      "community_building": "Encourage questions in comments"
+    },
+    {
+      "section": "Summary & Next Steps",
+      "duration": "12:30-13:30",
+      "description": "Reinforce learning and suggest progression",
+      "reinforcement": [
+        "3 key takeaways",
+        "Most important concept",
+        "Common pitfall to avoid",
+        "Success measurement"
+      ],
+      "progression_path": "What to learn next"
+    },
+    {
+      "section": "Resources & Call to Action",
+      "duration": "13:30-14:30",
+      "description": "Provide additional help and drive engagement",
+      "resources": [
+        "Downloadable cheat sheets",
+        "Practice files",
+        "Recommended tools/books",
+        "Related tutorials"
+      ],
+      "engagement": [
+        "Subscribe for more tutorials",
+        "Download resources in description",
+        "Join community for help",
+        "Request next tutorial topic"
+      ]
+    }
+  ],
+  "pedagogical_principles": [
+    "Scaffold complexity (simple → complex)",
+    "Use multiple learning modalities (visual, auditory, kinesthetic)",
+    "Provide immediate application opportunities",
+    "Build on prior knowledge",
+    "Check for understanding throughout"
+  ],
+  "production_techniques": [
+    "Clear screen recordings with zoomed highlights",
+    "Text overlays for key terms",
+    "Chapter markers for each step",
+    "Split screen for before/after",
+    "Animation for complex processes",
+    "Clean audio with no background noise"
+  ],
+  "subject_categories": [
+    {
+      "category": "Software Tutorials",
+      "examples": ["Photoshop techniques", "Excel formulas", "Coding basics", "App development"],
+      "best_practices": ["Clear cursor movements", "Keyboard shortcut display", "Code highlighting", "Error demonstration"]
+    },
+    {
+      "category": "Creative Skills",
+      "examples": ["Drawing techniques", "Photography composition", "Music production", "Writing methods"],
+      "best_practices": ["Process close-ups", "Tool demonstrations", "Style comparisons", "Creative exercises"]
+    },
+    {
+      "category": "Practical Life Skills",
+      "examples": ["Cooking techniques", "Home repair", "Financial planning", "Fitness routines"],
+      "best_practices": ["Safety warnings", "Tool identification", "Step verification", "Result expectations"]
+    },
+    {
+      "category": "Academic Concepts",
+      "examples": ["Math problem solving", "Science experiments", "Language learning", "Historical analysis"],
+      "best_practices": ["Concept visualization", "Real-world applications", "Practice problems", "Study techniques"]
+    }
+  ],
+  "accessibility_features": [
+    "Clear captions for all dialogue",
+    "Audio descriptions for visual elements",
+    "High contrast text overlays",
+    "Slow pacing for complex steps",
+    "Multiple explanation methods for key concepts"
+  ],
+  "assessment_methods": [
+    "Quick comprehension checks",
+    "Practice exercises with solutions",
+    "Self-assessment questions",
+    "Skill demonstration requirements",
+    "Progress tracking suggestions"
+  ],
+  "monetization_strategies": [
+    "Premium course upsell",
+    "Tool/software affiliate links",
+    "Sponsored segments for related products",
+    "Paid worksheets/templates",
+    "Consulting/service offerings"
+  ],
+  "seo_optimization": [
+    "Use 'how to' and 'tutorial' in title",
+    "Create detailed chapter timestamps",
+    "Include exact tool/software names",
+    "Answer common search questions",
+    "Use beginner-friendly language"
+  ]
+}

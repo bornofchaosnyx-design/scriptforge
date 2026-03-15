@@ -1,0 +1,175 @@
+{
+  "name": "Instagram Reels Tutorial",
+  "description": "Quick, visually engaging tutorial format optimized for Instagram Reels",
+  "platform": "Instagram Reels",
+  "estimated_length": "30-60 seconds",
+  "structure": [
+    {
+      "section": "Visual Hook (0-2 seconds)",
+      "description": "Show the satisfying end result immediately",
+      "techniques": [
+        "Before/after transformation",
+        "Finished product showcase",
+        "Skill demonstration result",
+        "Unexpected reveal"
+      ],
+      "retention_goal": "Stop scroll in first 2 seconds"
+    },
+    {
+      "section": "Problem Statement (2-5 seconds)",
+      "description": "Quickly state what you're solving",
+      "methods": [
+        "Text overlay: 'Struggle with this?'",
+        "Quick verbal problem identification",
+        "Visual problem demonstration",
+        "Relatable situation setup"
+      ],
+      "clarity": "Viewer instantly understands the value"
+    },
+    {
+      "section": "Tools/Materials Flash (5-8 seconds)",
+      "description": "Rapid show of what's needed",
+      "presentation": [
+        "Quick cuts of each tool",
+        "Text labels for each item",
+        "Voiceover listing essentials",
+        "Visual checklist style"
+      ],
+      "efficiency": "Show everything in 3 seconds max"
+    },
+    {
+      "section": "Core Tutorial Steps (8-45 seconds)",
+      "description": "The actual teaching section",
+      "step_requirements": [
+        "Maximum 3-4 steps total",
+        "Each step 5-10 seconds",
+        "Clear visual demonstration",
+        "Minimal verbal explanation"
+      ],
+      "visual_clarity": "Can be understood without sound"
+    },
+    {
+      "section": "Result Showcase (45-55 seconds)",
+      "description": "Reveal and celebrate the outcome",
+      "impact_moments": [
+        "Side-by-side before/after",
+        "Multiple angle showcase",
+        "Satisfying completion shot",
+        "Real-world application"
+      ],
+      "satisfaction_factor": "Viewer feels accomplishment"
+    },
+    {
+      "section": "CTA & Engagement (55-60 seconds)",
+      "description": "Drive action before reel ends",
+      "instagram_features": [
+        "Use 'Save this for later!'",
+        "Ask question in caption",
+        "Use poll sticker in comments",
+        "Encourage tag/share",
+        "Follow for more tutorials"
+      ],
+      "algorithm_signals": "Saves and shares boost reach"
+    }
+  ],
+  "instagram_specific_features": {
+    "audio_strategy": [
+      "Use trending Instagram audio",
+      "Original audio for unique content",
+      "Voiceover with captions (60% watch muted)",
+      "Sound effects for emphasis"
+    ],
+    "visual_style": [
+      "Bright, well-lit footage",
+      "Clean aesthetic matching your brand",
+      "Consistent color grading",
+      "Professional-looking results"
+    ],
+    "text_overlays": [
+      "Large, readable fonts",
+      "High contrast with background",
+      "Minimal text per screen",
+      "Animated text for emphasis"
+    ],
+    "interactive_elements": [
+      "Poll stickers in comments",
+      "Question stickers for engagement",
+      "Countdown stickers for launches",
+      "Quiz stickers for education"
+    ]
+  },
+  "tutorial_categories": [
+    {
+      "category": "Beauty & Makeup",
+      "examples": ["Quick makeup look", "Skincare routine", "Hair styling hack", "Nail art tutorial"],
+      "visual_techniques": ["Close-up shots", "Product application", "Brush stroke focus", "Color blending"]
+    },
+    {
+      "category": "Cooking & Recipes",
+      "examples": ["30-second recipe", "Kitchen hack", "Meal prep tip", "Cooking technique"],
+      "visual_techniques": ["Overhead shots", "Ingredient close-ups", "Process timelapse", "Plating showcase"]
+    },
+    {
+      "category": "DIY & Crafts",
+      "examples": ["Home decor project", "Craft tutorial", "Upcycling idea", "Quick gift making"],
+      "visual_techniques": ["Hands-only shots", "Material close-ups", "Process montage", "Finished product"]
+    },
+    {
+      "category": "Fitness & Wellness",
+      "examples": ["Quick workout", "Stretch routine", "Wellness tip", "Posture correction"],
+      "visual_techniques": ["Full body shots", "Form demonstrations", "Before/after", "Motivational text"]
+    },
+    {
+      "category": "Tech & Digital",
+      "examples": ["App tutorial", "Software tip", "Digital skill", "Phone hack"],
+      "visual_techniques": ["Screen recording", "Text callouts", "Cursor highlights", "Before/after screens"]
+    }
+  ],
+  "production_workflow": [
+    "Plan: 3-4 maximum steps that fit in 60 seconds",
+    "Film: Bright lighting, stable shots, multiple angles",
+    "Edit: Fast cuts (1-3 seconds per shot), text overlays, trending audio",
+    "Optimize: Captions, hashtags, engaging caption, interactive stickers",
+    "Post: Prime time (7-9 AM, 5-7 PM, 9-11 PM local)",
+    "Engage: Respond to comments for first hour"
+  ],
+  "hashtag_strategy": {
+    "mix_recommendation": "3 broad + 5 niche + 2 trending",
+    "broad_hashtags": ["#reels", "#reelsinstagram", "#viralreels", "#instareels"],
+    "niche_examples": {
+      "beauty": ["#makeuptutorial", "#skincareroutine", "#hairhack", "#beautyhacks"],
+      "cooking": ["#recipe", "#cookinghack", "#mealprep", "#foodtutorial"],
+      "diy": ["#diyproject", "#crafts", "#homedecor", "#upcycling"],
+      "fitness": ["#workout", "#fitness", "#wellness", "#healthytips"]
+    },
+    "trending_tips": "Check Instagram Reels tab for current trends"
+  },
+  "growth_strategies": [
+    "Consistency: Post 3-5 reels per week",
+    "Series: Create tutorial series on related topics",
+    "Collaboration: Duet with creators in your niche",
+    "Trend participation: Put educational spin on trends",
+    "Value focus: Every reel should teach something actionable"
+  ],
+  "monetization_paths": [
+    "Brand partnerships for product tutorials",
+    "Affiliate marketing for tools/materials shown",
+    "Digital product promotion (ebooks, courses)",
+    "Service promotion (consulting, workshops)",
+    "Cross-promotion to YouTube/Patreon"
+  ],
+  "analytics_focus": {
+    "reach": "How many unique accounts saw your reel",
+    "plays": "Total number of times reel was played",
+    "engagement_rate": "(Likes + Comments + Saves + Shares) / Plays",
+    "completion_rate": "Percentage who watched entire reel",
+    "follows": "New followers from reel",
+    "shares": "Number of times reel was shared (most valuable)"
+  },
+  "content_calendar_ideas": [
+    "Monday: Quick tip/tutorial",
+    "Wednesday: Problem-solving hack",
+    "Friday: Weekend project tutorial",
+    "Sunday: Weekly roundup/compilation"
+  ]
+}

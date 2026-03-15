@@ -1,0 +1,143 @@
+{
+  "name": "YouTube Product Review",
+  "description": "Professional product review format for YouTube with pros/cons and recommendations",
+  "platform": "YouTube",
+  "estimated_length": "8-12 minutes",
+  "structure": [
+    {
+      "section": "Hook & Introduction",
+      "duration": "0:00-0:45",
+      "description": "Grab attention with the product and your credibility",
+      "examples": [
+        "I've been testing [Product] for [Time Period], and here's what surprised me...",
+        "Is [Product] worth your money? After [Usage Context], here's my honest review."
+      ],
+      "key_elements": [
+        "Show product immediately",
+        "Establish your testing credentials",
+        "Tease the verdict"
+      ]
+    },
+    {
+      "section": "Unboxing & First Impressions",
+      "duration": "0:45-2:30",
+      "description": "Show the product and initial reactions",
+      "content": [
+        "Packaging quality",
+        "What's included in the box",
+        "Build quality and materials",
+        "Initial setup experience"
+      ],
+      "visual_cues": [
+        "[SHOW: Unboxing sequence]",
+        "[ZOOM: Key features]",
+        "[COMPARE: With similar products]"
+      ]
+    },
+    {
+      "section": "Features & Performance",
+      "duration": "2:30-6:00",
+      "description": "Deep dive into how the product actually performs",
+      "subsections": [
+        {
+          "title": "Key Features",
+          "content": "List and demonstrate 3-5 main features"
+        },
+        {
+          "title": "Real-World Testing",
+          "content": "Show it in actual use cases"
+        },
+        {
+          "title": "Performance Metrics",
+          "content": "Quantifiable results if applicable"
+        }
+      ]
+    },
+    {
+      "section": "Pros & Cons",
+      "duration": "6:00-8:00",
+      "description": "Balanced assessment with clear advantages and drawbacks",
+      "format": "Side-by-side comparison",
+      "pros": [
+        "What works exceptionally well",
+        "Unique selling points",
+        "Value for money aspects"
+      ],
+      "cons": [
+        "Legitimate drawbacks",
+        "Missing features",
+        "Areas for improvement"
+      ]
+    },
+    {
+      "section": "Comparison & Alternatives",
+      "duration": "8:00-9:30",
+      "description": "How it stacks up against competitors",
+      "comparisons": [
+        "Price comparison",
+        "Feature comparison",
+        "Target audience differences"
+      ],
+      "alternatives": [
+        "Budget alternative: [Product]",
+        "Premium alternative: [Product]",
+        "Different approach: [Product]"
+      ]
+    },
+    {
+      "section": "Final Verdict & Recommendation",
+      "duration": "9:30-10:30",
+      "description": "Clear conclusion and who should buy it",
+      "verdict_scale": [
+        "Avoid",
+        "Consider alternatives",
+        "Good option",
+        "Highly recommended",
+        "Must-buy"
+      ],
+      "audience_recommendations": [
+        "Perfect for: [Specific user type]",
+        "Not for: [Specific user type]",
+        "Best use case: [Scenario]"
+      ]
+    },
+    {
+      "section": "Call to Action",
+      "duration": "10:30-11:00",
+      "description": "Engage viewers and drive action",
+      "cta_options": [
+        "Where to buy (affiliate links)",
+        "Subscribe for more reviews",
+        "Comment with questions",
+        "Check description for timestamps"
+      ]
+    }
+  ],
+  "seo_tips": [
+    "Include exact product name in title",
+    "Use 'review', 'unboxing', 'hands-on' in tags",
+    "Create chapters for each major section",
+    "Include pricing in description",
+    "Add affiliate disclosure if applicable"
+  ],
+  "production_tips": [
+    "Use B-roll footage of product in use",
+    "Include close-ups of key features",
+    "Show before/after comparisons if applicable",
+    "Use text overlays for key points",
+    "Include sound effects for transitions"
+  ],
+  "monetization_ideas": [
+    "Affiliate links in description",
+    "Sponsorship segments",
+    "Product giveaways",
+    "Paid promotions for similar products"
+  ],
+  "example_topics": [
+    "iPhone 16 Pro Max Review: 30 Days Later",
+    "Sony WH-1000XM6 Noise Cancelling Headphones Review",
+    "M2 MacBook Air Review for Content Creators",
+    "DJI Mini 4 Pro Drone Review: Worth the Upgrade?",
+    "Ninja Foodi 10-in-1 Air Fryer Review"
+  ]
+}

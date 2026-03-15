@@ -1,0 +1,139 @@
+{
+  "name": "TikTok Trend / Challenge",
+  "description": "Fast-paced trend participation or challenge format optimized for TikTok algorithm",
+  "platform": "TikTok",
+  "estimated_length": "15-45 seconds",
+  "structure": [
+    {
+      "section": "Immediate Hook (0-2 seconds)",
+      "description": "Grab attention before viewer can scroll",
+      "techniques": [
+        "Start with the most exciting part",
+        "Use trending sound snippet",
+        "Text overlay: 'Wait for it...'",
+        "Unexpected visual immediately"
+      ],
+      "success_metrics": "View retention > 80% at 3 seconds"
+    },
+    {
+      "section": "Trend Setup (2-5 seconds)",
+      "description": "Quickly explain what trend you're doing",
+      "methods": [
+        "Text overlay naming the trend",
+        "Quick verbal explanation",
+        "Show original trend video snippet",
+        "Use trending hashtag in text"
+      ],
+      "clarity_goal": "Viewer understands the trend instantly"
+    },
+    {
+      "section": "Your Take / Execution (5-25 seconds)",
+      "description": "Your unique spin on the trend",
+      "creativity_elements": [
+        "Add personal twist or humor",
+        "Showcase unique skills",
+        "Incorporate your niche/expertise",
+        "Use props or location creatively"
+      ],
+      "differentiation": "What makes your version stand out"
+    },
+    {
+      "section": "Reveal / Payoff (25-35 seconds)",
+      "description": "The satisfying conclusion or result",
+      "impact_moments": [
+        "Before/after transformation",
+        "Unexpected result",
+        "Skill demonstration payoff",
+        "Emotional reaction shot"
+      ],
+      "shareability_factor": "Moment that makes people want to share"
+    },
+    {
+      "section": "CTA & Engagement (35-45 seconds)",
+      "description": "Drive interaction before video ends",
+      "engagement_tactics": [
+        "Duet/stitch invitation",
+        "Comment prompt ('Tag someone who...')",
+        "Follow for more trends",
+        "Save for later reminder"
+      ],
+      "algorithm_signals": "Comments, shares, completes boost reach"
+    }
+  ],
+  "trend_types": [
+    {
+      "name": "Dance Challenge",
+      "characteristics": ["Music synchronization", "Choreography", "Group participation"],
+      "success_factors": ["Clean execution", "Good lighting", "Energetic performance"]
+    },
+    {
+      "name": "Transition Trend",
+      "characteristics": ["Visual effects", "Outfit changes", "Location jumps"],
+      "success_factors": ["Smooth transitions", "Creative concepts", "Timing precision"]
+    },
+    {
+      "name": "Sound Trend",
+      "characteristics": ["Audio-based", "Lip sync", "Comedic timing"],
+      "success_factors": ["Expression matching", "Audio clarity", "Humorous twist"]
+    },
+    {
+      "name": "Educational Trend",
+      "characteristics": ["Quick tips", "Life hacks", "Skill demonstrations"],
+      "success_factors": ["Clear value", "Visual demonstration", "Actionable advice"]
+    },
+    {
+      "name": "Storytime Trend",
+      "characteristics": ["Personal stories", "Relatable situations", "Emotional hooks"],
+      "success_factors": ["Authenticity", "Pacing", "Emotional connection"]
+    }
+  ],
+  "algorithm_optimization": {
+    "completion_rate": "Most important metric - keep video engaging throughout",
+    "watch_time": "Aim for 100% watch rate on short videos",
+    "engagement_signals": ["Comments", "Shares", "Saves", "Follows"],
+    "sound_usage": "Using trending audio can 3-5x reach",
+    "posting_times": ["7-9 AM", "5-7 PM", "9-11 PM local time"]
+  },
+  "production_techniques": [
+    "Use trending audio (check TikTok Creative Center)",
+    "Add captions for silent viewing (60% watch muted)",
+    "Use text overlays for key points",
+    "Fast cuts (0.5-1.5 seconds per shot)",
+    "Dynamic camera movements",
+    "Color grading for visual appeal",
+    "Sound effects for emphasis"
+  ],
+  "content_ideas_by_niche": {
+    "Fitness": ["Workout transitions", "Form checks", "Progress updates", "Gym fails turned wins"],
+    "Beauty": ["Makeup transformations", "Skincare routines", "Product testing", "Get ready with me"],
+    "Cooking": ["Recipe shortcuts", "Kitchen hacks", "Plating transformations", "Fail to success"],
+    "Education": ["Quick facts", "Study tips", "Skill tutorials", "Myth busting"],
+    "Comedy": ["Relatable situations", "Character impressions", "Unexpected punchlines", "Satire"]
+  },
+  "hashtag_strategy": {
+    "broad_hashtags": ["#fyp", "#foryou", "#viral"],
+    "niche_hashtags": ["#[yourniche]", "#trendalert", "#contentcreator"],
+    "trend_specific": ["#[trendname]", "#challenge", "#dontscroll"],
+    "best_practices": ["3-5 broad, 5-7 niche, 2-3 trending", "Mix popular and less competitive"]
+  },
+  "trend_discovery_tools": [
+    "TikTok Creative Center",
+    "Trend discovery accounts",
+    "For You Page analysis",
+    "Industry newsletters",
+    "Competitor monitoring"
+  ],
+  "monetization_approaches": [
+    "Branded trends participation",
+    "Affiliate marketing in niche",
+    "Product placement in trends",
+    "Sponsored trend creation",
+    "Cross-promotion to other platforms"
+  ],
+  "success_metrics": {
+    "views": "10k+ = good start, 100k+ = trending, 1M+ = viral",
+    "engagement_rate": ">5% = good, >10% = excellent",
+    "completion_rate": ">80% for short form, >60% for longer",
+    "follower_growth": "0.5-1% of views typically convert"
+  }
+}

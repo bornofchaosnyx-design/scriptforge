@@ -1,0 +1,176 @@
+{
+  "name": "LinkedIn Professional Insight",
+  "description": "Thought leadership and professional advice format for LinkedIn video",
+  "platform": "LinkedIn",
+  "estimated_length": "2-4 minutes",
+  "structure": [
+    {
+      "section": "Professional Hook",
+      "duration": "0:00-0:20",
+      "description": "Start with a compelling industry insight or question",
+      "hook_types": [
+        "Industry trend observation",
+        "Common professional challenge",
+        "Counterintuitive finding",
+        "Success story teaser"
+      ],
+      "tone": "Professional, authoritative, yet approachable"
+    },
+    {
+      "section": "Credibility Establishment",
+      "duration": "0:20-0:40",
+      "description": "Briefly establish your expertise on the topic",
+      "methods": [
+        "Relevant experience mention",
+        "Client/case study reference",
+        "Data/statistic citation",
+        "Industry recognition"
+      ],
+      "authenticity": "Be specific, not boastful"
+    },
+    {
+      "section": "Core Insight / Framework",
+      "duration": "0:40-2:00",
+      "description": "Present your main idea or methodology",
+      "presentation_formats": [
+        "3-step framework",
+        "Before/after comparison",
+        "Case study breakdown",
+        "Data-driven analysis"
+      ],
+      "visual_aids": [
+        "[SHOW: Framework diagram]",
+        "[DISPLAY: Key statistics]",
+        "[HIGHLIGHT: Important text]",
+        "[COMPARE: Two approaches]"
+      ]
+    },
+    {
+      "section": "Practical Application",
+      "duration": "2:00-2:40",
+      "description": "How viewers can apply this insight",
+      "actionable_content": [
+        "Immediate action step",
+        "Implementation checklist",
+        "Common pitfalls to avoid",
+        "Resource recommendations"
+      ],
+      "value_proposition": "Clear ROI or benefit for implementing"
+    },
+    {
+      "section": "Industry Context",
+      "duration": "2:40-3:10",
+      "description": "Connect to broader industry trends",
+      "context_elements": [
+        "Future implications",
+        "Related developments",
+        "Cross-industry applications",
+        "Evolution of the concept"
+      ],
+      "thought_leadership": "Position as forward-thinking"
+    },
+    {
+      "section": "Engagement Prompt",
+      "duration": "3:10-3:30",
+      "description": "Encourage professional discussion",
+      "discussion_starters": [
+        "Ask for experiences with similar challenges",
+        "Pose thought-provoking question",
+        "Invite different perspectives",
+        "Request case study examples"
+      ],
+      "community_building": "Foster professional dialogue"
+    },
+    {
+      "section": "Call to Action & Connection",
+      "duration": "3:30-4:00",
+      "description": "Professional next steps",
+      "linkedin_features": [
+        "Connect invitation",
+        "Follow for more insights",
+        "Downloadable resource in comments",
+        "Related article link"
+      ],
+      "professional_etiquette": "Maintain appropriate LinkedIn tone"
+    }
+  ],
+  "linkedin_specific_considerations": {
+    "audience": "Professionals, executives, recruiters, industry peers",
+    "optimal_post_times": ["Tuesday-Thursday 8-10 AM, 12-2 PM, 5-6 PM"],
+    "video_format": "Square or vertical works best in feed",
+    "caption_strategy": "Detailed caption with key takeaways, questions, hashtags",
+    "hashtag_approach": "3-5 relevant industry hashtags, mix of broad and niche"
+  },
+  "content_categories": [
+    {
+      "category": "Career Advice",
+      "topics": ["Job search strategies", "Promotion pathways", "Skill development", "Networking techniques"],
+      "tone": "Mentor-like, supportive, practical"
+    },
+    {
+      "category": "Industry Analysis",
+      "topics": ["Market trends", "Technology impacts", "Regulatory changes", "Competitive landscape"],
+      "tone": "Analytical, informed, forward-looking"
+    },
+    {
+      "category": "Leadership Insights",
+      "topics": ["Management techniques", "Team building", "Decision making", "Change management"],
+      "tone": "Experienced, reflective, strategic"
+    },
+    {
+      "category": "Business Strategy",
+      "topics": ["Growth frameworks", "Operational efficiency", "Innovation methods", "Customer experience"],
+      "tone": "Strategic, results-oriented, data-driven"
+    }
+  ],
+  "production_quality": [
+    "Professional attire and setting",
+    "Clean, well-lit environment",
+    "Stable camera (tripod recommended)",
+    "Clear audio (lavalier mic ideal)",
+    "Minimal background distractions",
+    "Brand-consistent visuals"
+  ],
+  "credibility_elements": [
+    "Cite reputable sources",
+    "Share specific metrics when possible",
+    "Use real examples (with permission)",
+    "Acknowledge limitations or counterarguments",
+    "Stay within your actual expertise"
+  ],
+  "engagement_strategies": [
+    "Respond to all comments professionally",
+    "Tag relevant companies or individuals (when appropriate)",
+    "Share in relevant LinkedIn groups",
+    "Repurpose content as LinkedIn article",
+    "Use LinkedIn newsletter feature for series"
+  ],
+  "monetization_paths": [
+    "Consulting/service inquiries",
+    "Book/course promotions",
+    "Speaking engagement invitations",
+    "Corporate training opportunities",
+    "Sponsorship from relevant brands"
+  ],
+  "measurement_metrics": {
+    "views": "LinkedIn shows view count prominently",
+    "engagement_rate": "Likes, comments, shares relative to views",
+    "connection_requests": "New professional connections",
+    "profile_views": "Increase in profile visibility",
+    "lead_generation": "Direct messages about services"
+  },
+  "content_series_ideas": [
+    "Weekly industry insight every Monday",
+    "Case study breakdown series",
+    "Interview with industry experts",
+    "Framework of the month",
+    "Answering common questions from your field"
+  ],
+  "cross_promotion": [
+    "Share snippets to Twitter with link",
+    "Create carousel post from video key points",
+    "Email newsletter featuring video insights",
+    "SlideShare presentation of framework",
+    "Podcast episode diving deeper into topic"
+  ]
+}

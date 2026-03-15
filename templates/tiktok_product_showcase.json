@@ -1,0 +1,104 @@
+{
+  "name": "TikTok Product Showcase",
+  "description": "Visually dynamic product demonstration for TikTok with quick cuts and engaging text",
+  "platform": "TikTok",
+  "estimated_length": "15-30 seconds",
+  "structure": [
+    {
+      "section": "Visual Hook (0-2 seconds)",
+      "description": "Show the product in its best light or an intriguing use case",
+      "techniques": [
+        "Satisfying product reveal",
+        "Product in action (fast cut)",
+        "Close-up of a key feature",
+        "Before/after transformation"
+      ],
+      "goal": "Grab immediate attention"
+    },
+    {
+      "section": "Problem/Benefit (2-5 seconds)",
+      "description": "Quickly state the problem the product solves or its main benefit",
+      "text_overlay": "\"Tired of X?\" or \"This solves Y!\"",
+      "visuals": "Show pain point quickly then product solution"
+    },
+    {
+      "section": "Key Features (5-15 seconds)",
+      "description": "Highlight 1-3 main features with rapid demonstrations",
+      "feature_style": [
+        "Feature 1: [Visual demo] + [Text overlay]",
+        "Feature 2: [Visual demo] + [Text overlay]"
+      ],
+      "pacing": "Fast cuts, dynamic angles, minimal talking"
+    },
+    {
+      "section": "Lifestyle Integration (15-20 seconds)",
+      "description": "Show the product fitting seamlessly into a user's life",
+      "scenarios": [
+        "Using it at home/work",
+        "On-the-go usage",
+        "Creative applications",
+        "Benefit visualization (e.g., happy user)"
+      ],
+      "emotion": "Evoke desire and relatability"
+    },
+    {
+      "section": "Call to Action (20-30 seconds)",
+      "description": "Direct viewers on how to learn more or purchase",
+      "cta_options": [
+        "Link in bio!",
+        "Shop now!",
+        "Learn more at [Website]",
+        "Comment questions below!"
+      ],
+      "urgency": "Create desire to act now"
+    }
+  ],
+  "product_types": [
+    "Tech gadgets",
+    "Beauty products",
+    "Home goods",
+    "Fashion accessories",
+    "Food/drink items",
+    "Fitness equipment"
+  ],
+  "visual_techniques": [
+    "High-quality close-ups",
+    "Dynamic camera movements (sliding, panning)",
+    "Speed ramps for dramatic effect",
+    "Text overlays for key info",
+    "Product isolation shots",
+    "User reactions"
+  ],
+  "audio_strategy": [
+    "Trending TikTok sounds",
+    "Upbeat, energetic music",
+    "Clear voiceover (if any)",
+    "Satisfying product sounds (clicks, swishes)"
+  ],
+  "algorithm_tips": [
+    "Focus on high completion rates",
+    "Drive comments and saves",
+    "Use relevant trending hashtags",
+    "Keep video length concise and impactful"
+  ],
+  "monetization": [
+    "Direct product sales",
+    "Affiliate links",
+    "Brand collaborations",
+    "Shop integration (TikTok Shop)"
+  ],
+  "example_products": [
+    "Mini Portable Projector",
+    "Automatic Pet Feeder",
+    "Smart Water Bottle",
+    "DIY Home Decor Kit",
+    "Wireless Charging Lamp"
+  ],
+  "caption_strategy": [
+    "Short, punchy headline",
+    "Bullet points for key benefits",
+    "Engaging question",
+    "Clear CTA",
+    "Relevant hashtags"
+  ]
+}
