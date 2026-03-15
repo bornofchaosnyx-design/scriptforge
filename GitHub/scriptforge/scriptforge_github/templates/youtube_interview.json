@@ -1,0 +1,196 @@
+{
+  "name": "YouTube Interview / Conversation",
+  "description": "Professional interview format for YouTube featuring experts, creators, or interesting people",
+  "platform": "YouTube",
+  "estimated_length": "20-40 minutes",
+  "structure": [
+    {
+      "section": "Introduction & Context",
+      "duration": "0:00-2:00",
+      "description": "Introduce guest, topic, and why viewers should care",
+      "elements": [
+        "Guest name and credentials",
+        "Topic relevance to audience",
+        "What makes this conversation unique",
+        "Key questions to be explored"
+      ],
+      "hook": "Why this conversation matters right now"
+    },
+    {
+      "section": "Guest Background & Journey",
+      "duration": "2:00-8:00",
+      "description": "Explore guest's background and path to expertise",
+      "question_categories": [
+        "Origin story in their field",
+        "Pivotal career moments",
+        "Major influences or mentors",
+        "Evolution of their thinking"
+      ],
+      "storytelling": "Create narrative arc from beginnings to current work"
+    },
+    {
+      "section": "Core Topic Deep Dive",
+      "duration": "8:00-20:00",
+      "description": "Main discussion of the central topic",
+      "discussion_techniques": [
+        "Start with foundational concepts",
+        "Progress to advanced insights",
+        "Use examples and case studies",
+        "Address common misconceptions"
+      ],
+      "balance": "Equal speaking time, natural conversation flow"
+    },
+    {
+      "section": "Practical Applications",
+      "duration": "20:00-25:00",
+      "description": "How viewers can apply the insights",
+      "applications": [
+        "Actionable takeaways",
+        "Implementation frameworks",
+        "Beginner starting points",
+        "Advanced optimization tips"
+      ],
+      "value": "Clear utility for different audience segments"
+    },
+    {
+      "section": "Challenges & Controversies",
+      "duration": "25:00-30:00",
+      "description": "Address difficulties and differing viewpoints",
+      "approaches": [
+        "Biggest challenges in the field",
+        "Unresolved questions",
+        "Controversial opinions",
+        "Future obstacles"
+      ],
+      "authenticity": "Don't avoid difficult topics"
+    },
+    {
+      "section": "Future Outlook & Advice",
+      "duration": "30:00-35:00",
+      "description": "Looking ahead and guidance for viewers",
+      "future_topics": [
+        "Emerging trends",
+        "Technology impacts",
+        "Career advice for newcomers",
+        "Recommended learning paths"
+      ],
+      "forward_looking": "Help viewers prepare for what's next"
+    },
+    {
+      "section": "Rapid Fire / Personal Insights",
+      "duration": "35:00-38:00",
+      "description": "Quick questions for personal insight",
+      "question_types": [
+        "Daily routines/habits",
+        "Book/podcast recommendations",
+        "Failure and learning moments",
+        "Personal philosophy or motto"
+      ],
+      "humanizing": "Show guest as person, not just expert"
+    },
+    {
+      "section": "Conclusion & Resources",
+      "duration": "38:00-40:00",
+      "description": "Wrap up and direct to further resources",
+      "wrap_up": [
+        "Key conversation takeaways",
+        "Guest's current projects",
+        "Where to find guest online",
+        "Recommended follow-up content"
+      ],
+      "next_steps": "Clear path for continued learning"
+    }
+  ],
+  "interview_types": [
+    {
+      "type": "Expert Deep Dive",
+      "characteristics": ["Niche expertise", "Technical depth", "Research-focused", "Field advancements"],
+      "ideal_guests": ["Researchers", "Industry specialists", "Technical founders", "Academic experts"]
+    },
+    {
+      "type": "Creator Conversation",
+      "characteristics": ["Creative process", "Audience building", "Content strategy", "Monetization"],
+      "ideal_guests": ["Successful YouTubers", "Content creators", "Artists/designers", "Influencers"]
+    },
+    {
+      "type": "Entrepreneur Story",
+      "characteristics": ["Business journey", "Startup challenges", "Scaling experiences", "Industry insights"],
+      "ideal_guests": ["Founders", "Investors", "Business leaders", "Innovators"]
+    },
+    {
+      "type": "Skill Master Interview",
+      "characteristics": ["Craft mastery", "Technique demonstration", "Learning path", "Teaching philosophy"],
+      "ideal_guests": ["Master craftspeople", "Professional athletes", "Artisans", "Performance artists"]
+    }
+  ],
+  "pre_interview_preparation": [
+    "Research guest thoroughly",
+    "Prepare 15-20 core questions",
+    "Identify unique angles not covered elsewhere",
+    "Coordinate with guest on topic boundaries",
+    "Test equipment and setup"
+  ],
+  "hosting_techniques": [
+    "Active listening (not just waiting to talk)",
+    "Follow-up on interesting points",
+    "Clarify complex concepts for audience",
+    "Maintain conversational flow",
+    "Balance structure with spontaneity"
+  ],
+  "technical_production": [
+    "High-quality audio (separate mics for host/guest)",
+    "Good lighting on both faces",
+    "Clean, relevant background",
+    "Stable camera setup",
+    "Backup recording running"
+  ],
+  "editing_strategies": [
+    "Tighten pauses and filler words",
+    "Add relevant B-roll footage",
+    "Include text overlays for key points",
+    "Create chapter markers for topics",
+    "Add lower thirds for guest info"
+  ],
+  "promotion_strategies": [
+    "Teaser clips highlighting best moments",
+    "Collaborative promotion with guest",
+    "Targeted sharing to relevant communities",
+    "Email newsletter feature",
+    "Social media thread of key insights"
+  ],
+  "monetization_approaches": [
+    "Sponsorship integration",
+    "Channel membership for extended cuts",
+    "Patreon for behind-the-scenes",
+    "Affiliate links for recommended resources",
+    "Paid speaking/consulting referrals"
+  ],
+  "series_development": [
+    "Consistent branding and format",
+    "Guest diversity (expertise, background, perspective)",
+    "Thematic seasons or topics",
+    "Audience question incorporation",
+    "Cross-promotion between episodes"
+  ],
+  "audience_engagement": [
+    "Take viewer questions for future guests",
+    "Create discussion prompts in comments",
+    "Host live Q&A after episode release",
+    "Create community polls for future topics",
+    "Feature best comments in future episodes"
+  ],
+  "measurement_success": {
+    "view_duration": "Aim for high watch time (10+ minutes)",
+    "engagement_rate": "Comments/discussion indicates value",
+    "subscriber_growth": "New subscribers from interview exposure",
+    "guest_satisfaction": "Guest willingness to return/recommend",
+    "content_reuse": "Clips used across other platforms"
+  },
+  "ethical_considerations": [
+    "Clear consent for all topics discussed",
+    "Respect guest boundaries",
+    "Fact-check claims before publishing",
+    "Fair representation of guest views",
+    "Transparency about sponsorship"
+  ]
+}

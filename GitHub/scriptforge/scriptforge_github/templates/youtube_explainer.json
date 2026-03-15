@@ -1,0 +1,54 @@
+{
+  "name": "YouTube Explainer",
+  "description": "Standard explainer/tutorial format for YouTube videos",
+  "platform": "YouTube",
+  "estimated_length": "5-10 minutes",
+  "structure": [
+    {
+      "section": "Hook",
+      "duration": "0:00-0:30",
+      "description": "Grab attention with a question, surprising fact, or promise",
+      "example": "Have you ever wondered how [topic] actually works? Today I'm going to show you the secret behind it."
+    },
+    {
+      "section": "Introduction",
+      "duration": "0:30-1:00",
+      "description": "Introduce yourself and what the video will cover",
+      "example": "I'm [Your Name], and in this video, we're going to break down [topic] into simple, actionable steps."
+    },
+    {
+      "section": "Main Content",
+      "duration": "1:00-4:00",
+      "description": "Break down the main points with clear explanations",
+      "subsections": [
+        "Step 1: [First key point]",
+        "Step 2: [Second key point]",
+        "Step 3: [Third key point]"
+      ]
+    },
+    {
+      "section": "Examples/Demonstration",
+      "duration": "4:00-4:30",
+      "description": "Show practical examples or demonstrations",
+      "example": "Let me show you what this looks like in practice..."
+    },
+    {
+      "section": "Conclusion",
+      "duration": "4:30-5:00",
+      "description": "Summarize key takeaways",
+      "example": "So to recap, here are the three main things to remember about [topic]..."
+    },
+    {
+      "section": "Call to Action",
+      "duration": "5:00-5:30",
+      "description": "Tell viewers what to do next",
+      "example": "If you found this helpful, hit that like button and subscribe for more content like this!"
+    }
+  ],
+  "tips": [
+    "Use timestamps in your description",
+    "Include visual cues for editing",
+    "Keep language conversational",
+    "Add chapter markers for longer videos"
+  ]
+}

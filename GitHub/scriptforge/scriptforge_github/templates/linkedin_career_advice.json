@@ -1,0 +1,181 @@
+{
+  "name": "LinkedIn Career Advice",
+  "description": "Actionable career guidance and professional development advice for LinkedIn",
+  "platform": "LinkedIn",
+  "estimated_length": "3-5 minutes",
+  "structure": [
+    {
+      "section": "Career Challenge Hook",
+      "duration": "0:00-0:30",
+      "description": "Identify a common career challenge or question",
+      "hook_formats": [
+        "Have you ever struggled with [career challenge]?",
+        "The most common mistake I see professionals make...",
+        "If you want to advance in [field], avoid this...",
+        "A simple framework that helped me [career achievement]"
+      ],
+      "relatability": "Immediately connect with common professional pain points"
+    },
+    {
+      "section": "Personal Experience / Credibility",
+      "duration": "0:30-1:00",
+      "description": "Share relevant personal or client experience",
+      "story_types": [
+        "How I overcame this challenge",
+        "Client case study transformation",
+        "Common pattern observed across professionals",
+        "Data/statistics supporting the advice"
+      ],
+      "authenticity": "Real experience, not just theory"
+    },
+    {
+      "section": "Framework / Methodology",
+      "duration": "1:00-2:30",
+      "description": "Present a clear, actionable framework",
+      "framework_characteristics": [
+        "Simple to understand (3-5 steps max)",
+        "Memorable acronym or structure",
+        "Visual diagram or flowchart",
+        "Step-by-step implementation guide"
+      ],
+      "visual_aids": [
+        "[SHOW: Framework diagram]",
+        "[DISPLAY: Step-by-step checklist]",
+        "[HIGHLIGHT: Key principles]",
+        "[COMPARE: Before/after approach]"
+      ]
+    },
+    {
+      "section": "Implementation Examples",
+      "duration": "2:30-3:30",
+      "description": "Show how to apply the framework in real situations",
+      "example_types": [
+        "Different career levels (entry, mid, senior)",
+        "Various industries or roles",
+        "Common scenarios (interview, promotion, skill development)",
+        "Before/after transformation stories"
+      ],
+      "practicality": "Viewers can see exactly how to use it"
+    },
+    {
+      "section": "Common Pitfalls & Solutions",
+      "duration": "3:30-4:00",
+      "description": "Anticipate and address implementation challenges",
+      "pitfall_categories": [
+        "Time management issues",
+        "Skill gaps to address",
+        "Mindset obstacles",
+        "Resource constraints"
+      ],
+      "solutions": "Practical workarounds and alternatives"
+    },
+    {
+      "section": "Success Metrics & Timeline",
+      "duration": "4:00-4:30",
+      "description": "Define what success looks like and when to expect results",
+      "metrics": [
+        "Quantifiable outcomes (promotions, salary increases, skill mastery)",
+        "Qualitative improvements (confidence, satisfaction, recognition)",
+        "Timeline expectations (30/60/90 day milestones)",
+        "Adjustment criteria (when to pivot approach)"
+      ],
+      "realistic_expectations": "Manage expectations while maintaining motivation"
+    },
+    {
+      "section": "Community Discussion & Resources",
+      "duration": "4:30-5:00",
+      "description": "Encourage professional dialogue and provide additional help",
+      "engagement_methods": [
+        "Ask for specific experiences in comments",
+        "Pose reflection questions",
+        "Share additional resources (templates, tools, articles)",
+        "Offer to answer specific questions"
+      ],
+      "value_add": "Extend value beyond the video itself"
+    }
+  ],
+  "career_advice_categories": [
+    {
+      "category": "Job Search & Interviews",
+      "topics": ["Resume optimization", "LinkedIn profile enhancement", "Interview preparation", "Salary negotiation"],
+      "target_audience": "Job seekers, career changers, recent graduates"
+    },
+    {
+      "category": "Skill Development",
+      "topics": ["Technical skill acquisition", "Soft skill improvement", "Certification strategies", "Learning efficiency"],
+      "target_audience": "Professionals seeking advancement, career pivoters"
+    },
+    {
+      "category": "Leadership & Management",
+      "topics": ["Team leadership", "Project management", "Stakeholder communication", "Decision making"],
+      "target_audience": "Managers, aspiring leaders, team leads"
+    },
+    {
+      "category": "Career Strategy",
+      "topics": ["Career path planning", "Industry transition", "Work-life balance", "Professional branding"],
+      "target_audience": "Mid-career professionals, executives, consultants"
+    }
+  ],
+  "credibility_building": [
+    "Share specific results (with permission)",
+    "Cite reputable sources or studies",
+    "Demonstrate depth of experience",
+    "Acknowledge limitations of advice",
+    "Stay current with industry trends"
+  ],
+  "production_quality": [
+    "Professional appearance and setting",
+    "Clear, well-structured speaking",
+    "High-quality audio (essential for credibility)",
+    "Clean visuals with text reinforcement",
+    "Appropriate pacing for comprehension"
+  ],
+  "linkedin_optimization": {
+    "posting_times": "Tuesday-Thursday 8-10 AM, 12-2 PM, 5-6 PM (local time)",
+    "caption_strategy": "Detailed summary with key takeaways, questions, and 3-5 relevant hashtags",
+    "hashtag_mix": "Broad (#careeradvice, #professionaldevelopment) + Niche (#[industry]careers, #[skill]development)",
+    "engagement_tactics": "Respond to all comments, ask follow-up questions, share in relevant groups"
+  },
+  "content_series_ideas": [
+    "Weekly career tip every Monday",
+    "Month-long skill development series",
+    "Industry-specific career path guides",
+    "Interview with successful professionals",
+    "Answering common career questions"
+  ],
+  "monetization_approaches": [
+    "Consulting/service offerings",
+    "Online course or workshop promotion",
+    "Coaching program enrollment",
+    "Book or resource sales",
+    "Corporate training opportunities"
+  ],
+  "ethical_considerations": [
+    "Provide realistic, not exaggerated, expectations",
+    "Acknowledge different career paths and contexts",
+    "Avoid one-size-fits-all prescriptions",
+    "Respect confidentiality in case studies",
+    "Disclose any conflicts of interest"
+  ],
+  "success_metrics": {
+    "engagement_rate": "Comments and shares indicate value",
+    "connection_requests": "New professional connections",
+    "direct_messages": "Inquiries about services or further advice",
+    "profile_views": "Increased professional visibility",
+    "content_reuse": "Shares and saves for future reference"
+  },
+  "cross_platform_strategy": [
+    "Repurpose as LinkedIn article with more detail",
+    "Create carousel post summarizing key points",
+    "Share snippets to Twitter with link",
+    "Email newsletter featuring the advice",
+    "YouTube channel for extended versions"
+  ],
+  "community_building": [
+    "Create LinkedIn group for deeper discussion",
+    "Host regular Q&A sessions",
+    "Feature community success stories",
+    "Collaborate with other career experts",
+    "Create resource library for followers"
+  ]
+}

@@ -1,0 +1,58 @@
+SCRIPTFORGE - AI Video Script Generator
+Generated: 2026-03-09 06:45:00
+============================================================
+
+SCRIPT METADATA:
+----------------------------------------
+Topic: How to Start a YouTube Channel in 2026
+Video Type: YouTube
+Video Format: Explainer/Tutorial
+Target Length: 10 minutes
+Tone: Casual/Friendly
+Audience: Beginners, Aspiring Creators
+Model Used: deepseek-chat
+
+============================================================
+
+SCRIPT CONTENT:
+----------------------------------------
+
+[INTRO - 0:00-0:30]
+Hook: "Thinking about starting a YouTube channel but don't know where to begin? You're not alone."
+Preview: "Today, I'm walking you through the exact steps to launch your channel in 2026 - no fancy equipment or experience needed."
+
+[SETUP - 0:30-1:30]
+"First, let's address the elephant in the room: yes, YouTube is crowded. But here's the secret - there's ALWAYS room for authentic voices. I started with just my phone and a dream, and you can too."
+
+[STEP 1: NICHE SELECTION - 1:30-3:00]
+"Step one is choosing your niche. Don't say 'gaming' or 'vlogging' - get specific.
+[VISUAL: Show examples on screen]
+Are you teaching budget cooking for students? Showing urban gardening in small spaces? Reviewing indie video games? The more specific, the easier it is to find your audience."
+
+[STEP 2: EQUIPMENT - 3:00-5:00]
+"Step two: equipment. Start with what you have!
+[VISUAL: Phone camera vs DSLR comparison]
+Your phone camera is probably better than cameras from 5 years ago. Add a $20 lavalier mic from Amazon, and you're already at 80% quality. Natural lighting from a window beats expensive studio lights when you're starting."
+
+[STEP 3: PLANNING CONTENT - 5:00-7:00]
+"Step three: plan your first 10 videos before you even hit record.
+[VISUAL: Content calendar template]
+Batch record 3-4 videos in one day. This consistency is what the algorithm loves. I'll drop a free content calendar template in the description."
+
+[STEP 4: OPTIMIZATION - 7:00-8:30]
+"Step four: optimize for discovery.
+[VISUAL: YouTube Studio screenshot]
+Your title needs keywords people are searching for. Your thumbnail needs to stand out in a crowded feed. Your first 15 seconds need to hook viewers immediately."
+
+[STEP 5: MINDSET - 8:30-9:30]
+"Finally, the most important step: mindset.
+Your first 10 videos will probably not get many views. That's normal. Focus on improving 1% each video. The compound effect over a year is incredible."
+
+[CONCLUSION - 9:30-10:00]
+Summary: "So to recap: pick a specific niche, use what you have, plan ahead, optimize for search, and embrace the learning process."
+CTA: "If this was helpful, hit subscribe - I post new creator tips every Tuesday. Drop your niche ideas in the comments below!"
+Outro: "Thanks for watching, and I'll see you in the next one!"
+
+============================================================
+End of Script
+============================================================

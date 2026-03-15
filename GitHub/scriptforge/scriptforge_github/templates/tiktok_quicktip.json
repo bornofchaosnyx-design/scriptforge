@@ -1,0 +1,81 @@
+{
+  "name": "TikTok Quick Tip",
+  "description": "Fast-paced quick tip format for TikTok and short-form content",
+  "platform": "TikTok",
+  "estimated_length": "45-60 seconds",
+  "structure": [
+    {
+      "section": "Attention Grabber",
+      "duration": "0-3 seconds",
+      "description": "Immediate hook to stop scrolling",
+      "examples": [
+        "Stop wasting money on [common problem]!",
+        "This one trick will change how you [do something]",
+        "I wish I knew this sooner about [topic]"
+      ]
+    },
+    {
+      "section": "Problem Setup",
+      "duration": "3-10 seconds",
+      "description": "Quickly establish the problem or question",
+      "example": "Most people struggle with [problem], but it doesn't have to be that way."
+    },
+    {
+      "section": "Solution/Content",
+      "duration": "10-45 seconds",
+      "description": "Deliver the main content clearly and concisely",
+      "format": "Bullet points or quick steps work best",
+      "tips": [
+        "Use on-screen text for key points",
+        "Show, don't just tell",
+        "Keep it to 3 main points maximum"
+      ]
+    },
+    {
+      "section": "Result/Proof",
+      "duration": "45-55 seconds",
+      "description": "Show the outcome or provide proof",
+      "examples": [
+        "And here's what it looks like when you do it right...",
+        "This simple change saved me [time/money]",
+        "Watch how much easier this becomes"
+      ]
+    },
+    {
+      "section": "Call to Action",
+      "duration": "55-60 seconds",
+      "description": "Quick CTA before video ends",
+      "examples": [
+        "Save this for later!",
+        "Follow for more tips like this",
+        "Comment your results below!"
+      ]
+    }
+  ],
+  "platform_specific_tips": {
+    "TikTok": [
+      "Use trending sounds when relevant",
+      "Add captions for accessibility",
+      "Use relevant hashtags (3-5 maximum)",
+      "Post during peak hours (6-10 PM local time)"
+    ],
+    "Instagram Reels": [
+      "Use Instagram's native editing tools",
+      "Add interactive stickers (polls, questions)",
+      "Share to Stories after posting"
+    ],
+    "YouTube Shorts": [
+      "Use vertical format (9:16)",
+      "Add end screen elements",
+      "Link to related longer videos"
+    ]
+  },
+  "content_ideas": [
+    "Life hacks",
+    "Quick tutorials",
+    "Behind the scenes",
+    "Product recommendations",
+    "Myth busting",
+    "Before/after transformations"
+  ]
+}
